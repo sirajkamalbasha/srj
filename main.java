@@ -1,6 +1,6 @@
 public class Main
 {
  public void sendRequest(){
-  System.out.println("Test GitHUb JSON") 
+  System.out.println("Check GITHUB Project in Projects"); 
  }
 }
