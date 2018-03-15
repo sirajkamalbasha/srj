@@ -1,6 +1,6 @@
-Class osd{
-  Comm
-  Associate BUG
-  Associate C5-6 Bug
-  Add after prefix edit
+public class Main
+{
+ public void sendRequest(){
+  System.out.println("Test GitHUb JSON") 
+ }
 }
